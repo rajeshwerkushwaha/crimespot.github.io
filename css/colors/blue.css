@@ -1,0 +1,27 @@
+.welcome h2 span {
+	color: #29c5ff;
+}
+.info {
+	background: #29c5ff;
+}
+.info:hover i {
+	color: #29c5ff;
+}
+.form-control:focus {
+	border: 1px solid #29c5ff;
+}
+.form-control.error {
+	border: 1px solid #29c5ff;
+}
+.about-meta h5 i {
+	color: #29c5ff;
+}
+label.error {
+	background-color: #29c5ff;
+}
+.send-btn:hover {
+	color: #29c5ff;
+}
+.about-meta p a:hover {
+	color: #29c5ff;
+}
