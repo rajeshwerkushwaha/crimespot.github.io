@@ -1,0 +1,34 @@
+{
+  "name": "crimespot",
+  "description": "Crime Spot is a product where any user can spot the graphical location where a crime held and It will be much much more than that",
+  "version": "0.0.1",
+  "author": [
+    {
+      "name": "Rajesh Kumar",
+      "email": "rajeshwerkushwaha@gmail.com"
+    },
+    {
+      "name": "Udit Kulshrestha",
+      "email": "udkulshrestha@gmail.com"
+    },
+    {
+      "name": "Deepak Khatri",
+      "email": "dipak1296@gmail.com"
+    },
+    {
+      "name": "Navdeep Sharma",
+      "email": "gladiator.letsdie@gmail.com"
+    }
+  ],
+  "keywords": [
+    "crimespot",
+    "crimespot.info"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crimespot/crimespot.github.io.git"
+  },
+  "dependencies": {
+    "express": "~4.9.5"
+  }
+}
